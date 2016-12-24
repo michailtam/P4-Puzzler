@@ -26,10 +26,7 @@ public class lightUp : MonoBehaviour {
 
 	public void gazeLightUp() {
 		this.GetComponent<MeshRenderer>().material = lightUpMaterial; //Assign the hover material
-    ps.Play();  //Emit particles
-    this.GetComponent<GvrAudioSource>().Play();
-
-		gameLogic.GetComponent<GameLogic>().playerSelection(this.gameObject);
+    //ps.Play();  //Emit particles
 	}
 
 	public void playerSelection() {

@@ -19,6 +19,7 @@ public class GameLogic : MonoBehaviour {
 
   private int currentSolveIndex = 0; //Temporary variable for storing the index that the player is solving for in the pattern.
 
+  public GameObject failedAudioHolder;
 
   // Use this for initialization
   void Start() {
@@ -32,7 +33,6 @@ public class GameLogic : MonoBehaviour {
   }
 
   public void playerSelection(GameObject sphere) {
-
     if (playerWon != true) { //If the player hasn't won yet
       int selectedIndex = 0;
       //Get the index of the selected object
@@ -103,7 +103,7 @@ public class GameLogic : MonoBehaviour {
     iTween.MoveTo(player,
         iTween.Hash(
             "position", startPoint.transform.position,
-            "time", 7,
+            "time", 2,
             "easetype", "linear",
             "oncomplete", "resetGame",
             "oncompletetarget", this.gameObject
@@ -123,7 +123,10 @@ public class GameLogic : MonoBehaviour {
   public void puzzleFailure() { //Do this when the player gets it wrong
     Debug.Log("You've Failed, Resetting puzzle");
 
+    Debug.Log("HOLDER: " + failedAudioHolder);
+    failedAudioHolder.GetComponent<GvrAudioSource>().Play();
     currentSolveIndex = 0;
+    Debug.Log("This: " + this);
 
     startPuzzle();
 

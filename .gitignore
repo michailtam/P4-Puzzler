@@ -3,6 +3,7 @@
 Library
 Build
 Documentation
+Temp
 Assets/GoogleVR/
 Assets/Plugins/
 
@@ -10,5 +11,3 @@ Assets/Plugins/
 ##############################
 *.csproj
 *.sln
-*.meta
-
