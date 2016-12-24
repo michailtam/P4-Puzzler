@@ -1,0 +1,14 @@
+##### Folders and Subfolders to exclude #####
+#############################################
+Library
+Build
+Documentation
+Assets/GoogleVR/
+Assets/Plugins/
+
+# File Extensions to exclude #
+##############################
+*.csproj
+*.sln
+*.meta
+
