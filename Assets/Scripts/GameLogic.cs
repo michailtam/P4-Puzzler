@@ -21,8 +21,14 @@ public class GameLogic : MonoBehaviour {
 
   public GameObject failedAudioHolder;
 
+  public GameObject startGate;
+  public GameObject endGate;
+
   // Use this for initialization
   void Start() {
+    // Open entrance
+    startGate.SetActive(false);
+
     puzzleOrder = new int[puzzleLength]; //Set the size of our array to the declared puzzle length
     generatePuzzleSequence(); //Generate the puzzle sequence for this playthrough.  
   }
@@ -51,17 +57,22 @@ public class GameLogic : MonoBehaviour {
       currentSolveIndex++;
       Debug.Log("Correct!  You've solved " + currentSolveIndex + " out of " + puzzleLength);
       if (currentSolveIndex >= puzzleLength) {
+        endGate.SetActive(false);
         puzzleSuccess();
       }
     } else {
       puzzleFailure();
     }
-
   }
 
-  public void startPuzzle() { //Begin the puzzle sequence
+  public void startPuzzle() {
+    //Begin the puzzle sequence
     //Generate a random number one through five, save it in an array.  Do this n times.
     //Step through the array for displaying the puzzle, and checking puzzle failure or success.
+
+    // Block exit
+    endGate.SetActive(true);
+
     startUI.SetActive(false);
     //eventSystem.SetActive(false);
     iTween.MoveTo(player, playPoint.transform.position, 15f);
@@ -73,6 +84,8 @@ public class GameLogic : MonoBehaviour {
   void displayPattern() { //Invoked repeating.
     currentlyDisplayingPattern = true; //Let us know were displaying the pattern
     eventSystem.SetActive(false); //Disable gaze input events while we are displaying the pattern.
+
+    startGate.SetActive(true);  // Block the entrance when player is inside
 
     if (currentlyDisplayingPattern == true) { //If we are not finished displaying the pattern
       if (currentDisplayIndex < puzzleOrder.Length) { //If we haven't reached the end of the puzzle
@@ -100,6 +113,9 @@ public class GameLogic : MonoBehaviour {
 
 
   public void resetPuzzle() { //Reset the puzzle sequence
+    // Open all gates
+    startGate.SetActive(false);
+
     iTween.MoveTo(player,
         iTween.Hash(
             "position", startPoint.transform.position,
@@ -116,20 +132,16 @@ public class GameLogic : MonoBehaviour {
   public void resetGame() {
     restartUI.SetActive(false);
     startUI.SetActive(true);
+
     playerWon = false;
     generatePuzzleSequence(); //Generate the puzzle sequence for this playthrough.  
   }
 
   public void puzzleFailure() { //Do this when the player gets it wrong
     Debug.Log("You've Failed, Resetting puzzle");
-
-    Debug.Log("HOLDER: " + failedAudioHolder);
     failedAudioHolder.GetComponent<GvrAudioSource>().Play();
     currentSolveIndex = 0;
-    Debug.Log("This: " + this);
-
     startPuzzle();
-
   }
 
   public void puzzleSuccess() { //Do this when the player gets it right

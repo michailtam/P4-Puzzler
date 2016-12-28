@@ -11,3 +11,4 @@ Assets/Plugins/
 ##############################
 *.csproj
 *.sln
+*.suo
