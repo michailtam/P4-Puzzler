@@ -10,7 +10,7 @@ The project met a lot of interests who wanted to play the game and feel the mood
 
 [VR game Puzzler - Gameplay video](https://youtu.be/1MZDhKDQ9sY)
 
-<img src="http://i.imgur.com/qC1Kc4l.jpg" width="740" height="388">
+<img src="http://i.imgur.com/qC1Kc4l.jpg" width="640" height="288">
 
 <img src="/uploads/default/original/3X/a/3/a39905ff0ab8063dc9ed709771ec7f998e31140e.JPG" width="540" height="247">
 
