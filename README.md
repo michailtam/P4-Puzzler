@@ -12,7 +12,7 @@ The project met a lot of interests who wanted to play the game and feel the mood
 
 <img src="http://i.imgur.com/qC1Kc4l.jpg" width="540" height="288">
 
-<img src="/uploads/default/original/3X/a/3/a39905ff0ab8063dc9ed709771ec7f998e31140e.JPG" width="540" height="247">
+<img src="http://i.imgur.com/EBIGqLR.jpg" width="540" height="288">
 
 <img src="/uploads/default/original/3X/0/2/024822baf38e63a760f571adcb23f8aceb4b8045.JPG" width="540" height="247">
 
