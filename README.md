@@ -14,13 +14,13 @@ The project met a lot of interests who wanted to play the game and feel the mood
 
 <img src="http://i.imgur.com/EBIGqLR.jpg" width="540" height="288">
 
-<img src="/uploads/default/original/3X/0/2/024822baf38e63a760f571adcb23f8aceb4b8045.JPG" width="540" height="247">
+<img src="http://i.imgur.com/VTP62Eo.jpg" width="540" height="288">
 
 ##Process 
 **Statement of Purpose:** The game Puzzler is a mobile VR application targeting users who want to solve a puzzle game in a new innovative way.
 
 ###Persona
-<img src="/uploads/default/original/3X/c/9/c9fa95ae435fa8b5495e053902b846f1c12dd74b.JPG" width="156" height="182">
+<img src="http://i.imgur.com/uZaMMl4.jpg" width="156" height="182">
 
 *The user persona that was created for this project is called Peter. He is 32 years old works as an Electronics Engineer is married and has two children. Peter likes playing video games and design electronic circuits. He has some experience with VR, cause he has tested some VR games at the informatics fair CEBIT.*
 
