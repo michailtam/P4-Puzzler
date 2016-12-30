@@ -12,9 +12,9 @@ The project met a lot of interests who wanted to play the game and feel the mood
 
 <img src="http://i.imgur.com/qC1Kc4l.jpg" width="540" height="288">
 
-<img src="http://i.imgur.com/EBIGqLR.jpg" width="540" height="288">
+<img src="http://i.imgur.com/EBIGqLR.jpg" width="540" height="247">
 
-<img src="http://i.imgur.com/VTP62Eo.jpg" width="540" height="288">
+<img src="http://i.imgur.com/VTP62Eo.jpg" width="540" height="247">
 
 ##Process 
 **Statement of Purpose:** The game Puzzler is a mobile VR application targeting users who want to solve a puzzle game in a new innovative way.
