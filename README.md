@@ -27,9 +27,9 @@ The project met a lot of interests who wanted to play the game and feel the mood
 ###Sketches
 *Underneath I have provided some sketches that were created during the design process to lay out the groundwork of the project.*
 
-<img src="/uploads/default/original/3X/d/7/d7b6295df07769fd6822f955dd885c0f11e449a9.jpg" width="440" height="280">
+<img src="http://i.imgur.com/mGUj5RD.jpg" width="440" height="280">
 
-<img src="/uploads/default/original/3X/2/4/245174fec597a729f40ac3d8e60ec54ebe71c0f4.jpg" width="440" height="280">
+<img src="http://i.imgur.com/Wpp3nz8.jpg" width="440" height="280">
 
 ##User Testing
 
