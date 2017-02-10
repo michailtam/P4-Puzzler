@@ -12,7 +12,7 @@ The project met a lot of interests who wanted to play the game and feel the mood
 [![Puzzler YouTube Video](https://img.youtube.com/vi/1MZDhKDQ9sY/0.jpg)](https://www.youtube.com/watch?v=1MZDhKDQ9sY)
 
 <a href="https://www.youtube.com/watch?v=1MZDhKDQ9sY" target="_blank"><img src="https://img.youtube.com/vi/1MZDhKDQ9sY/0.jpg" 
-alt="Puzzler YouTube Video" width="240" height="180" border="10" /></a>
+alt="Puzzler YouTube Video" width="240" height="50" border="10" /></a>
 
 ####Screenshots
 
