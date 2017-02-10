@@ -4,8 +4,7 @@ Library
 Build
 Documentation
 Temp
-Assets/GoogleVR/
-Assets/Plugins/
+
 
 # File Extensions to exclude #
 ##############################
