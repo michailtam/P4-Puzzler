@@ -10,11 +10,11 @@ The project met a lot of interests who wanted to play the game and feel the mood
 
 [VR game Puzzler - Gameplay video](https://youtu.be/1MZDhKDQ9sY)
 
-<img src="/uploads/default/original/3X/1/3/1320a745987e656090584a50741ce33f59a15f14.jpg" width="540" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot1.JPG" alt="first steps" width="540" height="288">
 
-<img src="/uploads/default/original/3X/a/3/a39905ff0ab8063dc9ed709771ec7f998e31140e.JPG" width="540" height="247">
+<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot5.JPG" width="540" height="288">
 
-<img src="/uploads/default/original/3X/0/2/024822baf38e63a760f571adcb23f8aceb4b8045.JPG" width="540" height="247">
+<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot6.JPG" width="540" height="288">
 
 ##Process 
 **Statement of Purpose:** The game Puzzler is a mobile VR application targeting users who want to solve a puzzle game in a new innovative way.
@@ -27,9 +27,9 @@ The project met a lot of interests who wanted to play the game and feel the mood
 ###Sketches
 *Underneath I have provided some sketches that were created during the design process to lay out the groundwork of the project.*
 
-<img src="/uploads/default/original/3X/d/7/d7b6295df07769fd6822f955dd885c0f11e449a9.jpg" width="440" height="280">
+<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/sketch01_choice.jpg" width="440" height="280">
 
-<img src="/uploads/default/original/3X/2/4/245174fec597a729f40ac3d8e60ec54ebe71c0f4.jpg" width="440" height="280">
+<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/sketch04_choice.jpg" width="440" height="280">
 
 ##User Testing
 
