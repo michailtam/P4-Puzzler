@@ -14,6 +14,8 @@ The project met a lot of interests who wanted to play the game and feel the mood
 <a href="https://www.youtube.com/watch?v=1MZDhKDQ9sY"><img src="https://img.youtube.com/vi/1MZDhKDQ9sY/0.jpg" 
 alt="Puzzler YouTube Video" width="888" height="365" border="0" /></a>
 
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=1MZDhKDQ9sY" frameborder="0" allowfullscreen></iframe>
+
 ####Screenshots
 
 <img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot1.JPG" alt="first steps" width="560" height="288">
