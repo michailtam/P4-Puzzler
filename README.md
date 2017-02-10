@@ -10,11 +10,11 @@ The project met a lot of interests who wanted to play the game and feel the mood
 
 [VR game Puzzler - Gameplay video](https://youtu.be/1MZDhKDQ9sY)
 
-<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot1.JPG" alt="first steps" width="540" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot1.JPG" alt="first steps" width="560" height="288">
 
-<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot5.JPG" width="540" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot5.JPG" width="560" height="288">
 
-<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot6.JPG" width="540" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/screenshot6.JPG" width="560" height="288">
 
 ##Process 
 **Statement of Purpose:** The game Puzzler is a mobile VR application targeting users who want to solve a puzzle game in a new innovative way.
