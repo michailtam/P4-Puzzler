@@ -9,7 +9,9 @@ There were a lot of design concepts to include in this project, but one of the m
 The project met a lot of interests who wanted to play the game and feel the mood. This success took place while using an iterative approach to improving the environment, the gameplay and get rid of bugs. The players had never played a VR application even on the mobile phone nor on a PC or a game console but they got very impressed with it.
 
 ####Video
-[![Puzzler YouTube Video](https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/video_preview.JPG)](https://www.youtube.com/watch?v=1MZDhKDQ9sY)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://raw.githubusercontent.com/michailtam/P4-Puzzler/master/_README/video_preview.JPG" 
+alt="IMAGE ALT TEXT HERE" width="560" height="288" border="0" /></a>
 
 ####Screenshots
 
